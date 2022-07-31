@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Student_Api/static/css/main.39da0dbb.css",
+    "main.js": "/Student_Api/static/js/main.ee2a350f.js",
+    "static/js/787.703b8e1e.chunk.js": "/Student_Api/static/js/787.703b8e1e.chunk.js",
+    "index.html": "/Student_Api/index.html",
+    "main.39da0dbb.css.map": "/Student_Api/static/css/main.39da0dbb.css.map",
+    "main.ee2a350f.js.map": "/Student_Api/static/js/main.ee2a350f.js.map",
+    "787.703b8e1e.chunk.js.map": "/Student_Api/static/js/787.703b8e1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39da0dbb.css",
+    "static/js/main.ee2a350f.js"
+  ]
+}
