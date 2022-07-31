@@ -1,0 +1,92 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.container2{
+  /* border: 2px solid red; */
+  height: 600px;
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  width: 50%;
+  overflow-x: scroll;
+}
+
+.container2 h3{
+    text-align: center;
+    background-color: rgb(97, 90, 90);
+    color: whitesmoke;
+    padding: 10px;
+    
+}
+
+.wishList{
+    height: 600px;
+    width: 50%;
+    /* border: 2px solid blue; */
+    overflow-x: scroll;
+}
+
+.whistlistHead{
+    text-align: center;
+    background-color: rgb(97, 90, 90);
+    color: whitesmoke;
+    padding: 10px;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    /* border: 1px solid yellow; */
+    margin-bottom: 10px;
+    background-color: rgb(168, 225, 206);
+}
+.cardBody{
+    background-color: rgb(208, 219, 223);
+}
+
+.cardBody h5{
+    background-color: lightgray;
+    padding: 8px;
+    /* width: 100%; */
+}
+
+.cardBody p{
+    margin-left: 5px;
+}
+
+.addWish{
+    width: 50%;
+    align-self: center;
+    border: none;
+    background-color: lightgreen;
+    border-radius: 10px;
+    font-weight: bold;
+    color: whitesmoke;
+    
+}
+
+.box{
+    display:flex;
+    flex-direction: column;
+    /* border: 1px solid yellow; */
+    margin-bottom: 10px;
+    background-color:rgb(208, 219, 223);
+}
+
+.box h5{
+    background-color: lightgray;
+    padding: 8px;
+}
+
+.removeBtn{
+    width: 50%;
+    align-self: center;
+    background-color: rgb(223, 145, 145);
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+    color: whitesmoke;
+}
